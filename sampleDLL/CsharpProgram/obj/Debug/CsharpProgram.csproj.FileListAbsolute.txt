@@ -1,0 +1,9 @@
+C:\Users\fairy\Desktop\test_dll\sampleDLL\CsharpProgram\bin\Debug\CsharpProgram.exe.config
+C:\Users\fairy\Desktop\test_dll\sampleDLL\CsharpProgram\bin\Debug\CsharpProgram.exe
+C:\Users\fairy\Desktop\test_dll\sampleDLL\CsharpProgram\bin\Debug\CsharpProgram.pdb
+C:\Users\fairy\Desktop\test_dll\sampleDLL\CsharpProgram\bin\Debug\ClassLibrary_sampleDLL.dll
+C:\Users\fairy\Desktop\test_dll\sampleDLL\CsharpProgram\bin\Debug\ClassLibrary_sampleDLL.pdb
+C:\Users\fairy\Desktop\test_dll\sampleDLL\CsharpProgram\obj\Debug\CsharpProgram.csprojResolveAssemblyReference.cache
+C:\Users\fairy\Desktop\test_dll\sampleDLL\CsharpProgram\obj\Debug\CsharpProgram.exe
+C:\Users\fairy\Desktop\test_dll\sampleDLL\CsharpProgram\obj\Debug\CsharpProgram.pdb
+C:\Users\fairy\Desktop\test_dll\sampleDLL\CsharpProgram\obj\Debug\CsharpProgram.csproj.CoreCompileInputs.cache

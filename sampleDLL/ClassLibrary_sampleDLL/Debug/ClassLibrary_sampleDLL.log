@@ -1,0 +1,7 @@
+﻿  Stdafx.cpp
+  AssemblyInfo.cpp
+  ClassLibrary_sampleDLL.cpp
+  正在生成代码...
+  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
+    正在创建库 C:\Users\fairy\Desktop\test_dll\sampleDLL\Debug\ClassLibrary_sampleDLL.lib 和对象 C:\Users\fairy\Desktop\test_dll\sampleDLL\Debug\ClassLibrary_sampleDLL.exp
+  ClassLibrary_sampleDLL.vcxproj -> C:\Users\fairy\Desktop\test_dll\sampleDLL\Debug\ClassLibrary_sampleDLL.dll
